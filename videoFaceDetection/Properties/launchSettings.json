@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "videoFaceDetection": {
+      "commandName": "Project"
+    }
+  }
+}
