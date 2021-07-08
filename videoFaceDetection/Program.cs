@@ -15,7 +15,6 @@ namespace videoFaceDectection
             capture.Set(VideoCaptureProperties.PosFrames, startFrameNumber);
         }
 
-
         static void Main(string[] args)
         {
             VideoCapture videoCapture = new VideoCapture();
